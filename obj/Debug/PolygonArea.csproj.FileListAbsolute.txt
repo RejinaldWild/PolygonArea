@@ -1,0 +1,9 @@
+D:\Programming\GitHubProject\PolygonArea\PolygonArea\bin\Debug\PolygonArea.exe
+D:\Programming\GitHubProject\PolygonArea\PolygonArea\bin\Debug\PolygonArea.pdb
+D:\Programming\GitHubProject\PolygonArea\PolygonArea\obj\Debug\PolygonArea.csproj.AssemblyReference.cache
+D:\Programming\GitHubProject\PolygonArea\PolygonArea\obj\Debug\PolygonArea.Properties.Resources.resources
+D:\Programming\GitHubProject\PolygonArea\PolygonArea\obj\Debug\PolygonArea.csproj.GenerateResource.cache
+D:\Programming\GitHubProject\PolygonArea\PolygonArea\obj\Debug\PolygonArea.csproj.CoreCompileInputs.cache
+D:\Programming\GitHubProject\PolygonArea\PolygonArea\obj\Debug\PolygonArea.exe
+D:\Programming\GitHubProject\PolygonArea\PolygonArea\obj\Debug\PolygonArea.pdb
+D:\Programming\GitHubProject\PolygonArea\PolygonArea\obj\Debug\PolygonArea.Form1.resources
